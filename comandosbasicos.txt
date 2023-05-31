@@ -1,0 +1,22 @@
+Estados de Github:
+
+1) Working directory: Trabaja con los archivos
+2) staging area: Los pasa para poder subirlos
+3) repository: Los sube al repositorio
+
+
+Comandos de Github
+
+git init : Iniciar el proyecto
+git add .: <file> : Pasa los archivos del (1) al (2)
+git status: En qué estado se encuentran
+git commit -m:Para pasar el (2) al (3)
+git push: Subirlo a un repositorio remoto
+git pull: Trae los cambios que han hecho los otros desarrolladores
+git clone: Hace una copia desde el servidor central hacía mi pc.
+git log: Me permite ver quién hace cambios en el repositorio. 
+git checkout -- nombrearchivo.html: Permite descartar cambios generados en el documento
+git diff: para ver las diferencias en los archivos modificados
+:wq (Permite salir de la consola de bin)
+____________________________________________________
+
